@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../image/logo.svg'
 
 
-function Header() {
+function Header(props) {
     return (
         <div className="container-fluid p-0">
             <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
@@ -29,9 +29,9 @@ function Header() {
     Şehir
   </button>
   <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-    <li><a className="dropdown-item" href="#">İstanbul</a></li>
-    <li><a className="dropdown-item" href="#">Ankara</a></li>
-    <li><a className="dropdown-item" href="#">İzmir</a></li>
+    <li><a className="dropdown-item" href="#">{props.houseData[0].sehir1}</a></li>
+    <li><a className="dropdown-item" href="#">{props.houseData[0].sehir2}</a></li>
+    <li><a className="dropdown-item" href="#">{props.houseData[0].sehir3}</a></li>
   </ul>
 </div>
       </ul>

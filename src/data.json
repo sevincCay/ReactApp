@@ -1,0 +1,63 @@
+[
+    {
+        "sehir1":"İstanbul",
+        "sehir2":"İzmir",
+        "sehir3":"Ankara"
+    },
+    {
+        "id":1,
+        "city": "İstanbul",
+        "district": "Kadıköy",
+        "street": "Merkez",
+        "name": "X Villası",
+        "price": 14500,
+        "description": "Boğaza sıfır lüks. Metrobüse yakın. 5 odalı 2 banyolu bir ev",
+        "image": "https://www.tatilvillam.com/property-images/thumbnail_lg/162138/villa-soho-af35bc09cf.jpg",
+        "suitable":true
+    },
+    {
+        "id":2,
+        "city": "İstanbul",
+        "district": "Maltepe",
+        "street": "Merkez",
+        "name": "Y Villası",
+        "price": 10500,
+        "description": "Maltepe sıfır lüks. Metrobüse yakın. 5 odalı 2 banyolu bir ev",
+        "image": "https://www.villacim.com.tr/uploads/villa-merlin-1_997.jpg",
+        "suitable":true
+    },
+    {
+        "id":3,
+        "city": "Ankara",
+        "district": "Cincin",
+        "street": "Merkez",
+        "name": "O Villası",
+        "price": 14500,
+        "description": "Karakola yakın süper bir villa",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mustakilvillam.com%2Fuploads%2Fvilla-ercin-1_124.jpg&imgrefurl=https%3A%2F%2Fwww.mustakilvillam.com%2Ftr%2FVilla-Kiralama%2Ffethiye-villa-ercin%2F&tbnid=SOsTsTv089iSdM&vet=12ahUKEwigrquVjK7zAhVwiv0HHQjPD0EQMygGegUIARC4AQ..i&docid=fPK2wn3_giw04M&w=1620&h=1080&q=villa&ved=2ahUKEwigrquVjK7zAhVwiv0HHQjPD0EQMygGegUIARC4AQ",
+        "suitable":true
+    },
+    {
+        "id":4,
+        "city": "İzmir",
+        "district": "Bostanlı",
+        "street": "Merkez",
+        "name": "X Villası",
+        "price": 4500,
+        "description": "Şehirden uzak süper bir villa",
+        "image": "https://www.tatilvillam.com/property-images/thumbnail_lg/162138/villa-soho-af35bc09cf.jpg",
+        "suitable":false
+    },
+    {
+        "id":5,
+        "city": "İzmir",
+        "district": "Bostanlı",
+        "street": "Merkez",
+        "name": "X Villası",
+        "price": 4500,
+        "description": "Şehirden uzak süper bir villa",
+        "image": "https://www.tatilvillam.com/property-images/thumbnail_lg/162138/villa-soho-af35bc09cf.jpg",
+        "suitable":false
+    }
+    
+]
